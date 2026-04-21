@@ -49,9 +49,9 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DipanshuUpadhaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipanshuUpadhaya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -60,7 +60,7 @@
 ## ⚙️ Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFFF&point=FF00FF&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipanshuUpadhaya&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFFF&point=FF00FF&area=true" width="95%"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/DipanshuUpadhaya" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -92,7 +92,7 @@
 ## 💎 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00FFFF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=DipanshuUpadhaya&label=Profile+Views&color=00FFFF&style=for-the-badge"/>
 </div>
 
 ---
